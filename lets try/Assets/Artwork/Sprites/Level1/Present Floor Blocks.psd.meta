@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: ece4733caeb7e004eb87015a9e4d3916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4029736446373728614
+    second: Present Floor Blocks_0
+  - first:
+      213: -5433890090413631516
+    second: Present Floor Blocks_1
+  - first:
+      213: -4937005294697726003
+    second: Present Floor Blocks_2
+  - first:
+      213: -4872722938994190889
+    second: Present Floor Blocks_3
+  - first:
+      213: 7660667597964604337
+    second: Present Floor Blocks_4
+  - first:
+      213: 5438210231534594937
+    second: Present Floor Blocks_5
+  - first:
+      213: 5370850675787813040
+    second: Present Floor Blocks_6
+  - first:
+      213: 6856130510871020795
+    second: Present Floor Blocks_7
+  - first:
+      213: 8332013321748884553
+    second: Present Floor Blocks_8
+  - first:
+      213: 2405721805868340851
+    second: Present Floor Blocks_9
+  - first:
+      213: -3496406617609898238
+    second: Present Floor Blocks_10
+  - first:
+      213: -5200145686029529137
+    second: Present Floor Blocks_11
+  - first:
+      213: 3777996319529717496
+    second: Present Floor Blocks_12
+  - first:
+      213: -5887908856294784596
+    second: Present Floor Blocks_13
+  - first:
+      213: 2124005868908310046
+    second: Present Floor Blocks_14
+  - first:
+      213: 1617080625565090551
+    second: Present Floor Blocks_15
+  - first:
+      213: 6557657411722324851
+    second: Present Floor Blocks_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Present Floor Blocks_0
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1308
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71587d0db248049ac94b41b9681a15
+      internalID: 4029736446373728614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1312
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76ebac0c1cf7444854c0f69640175b
+      internalID: -5433890090413631516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1012
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d26d9b016d9394c99c6829844d27a6
+      internalID: -4937005294697726003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1011
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3029f482850e469af225fc0c83a52
+      internalID: -4872722938994190889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8793573029cf94a936097f46b8729d
+      internalID: 7660667597964604337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f3350b980498f45b6b0a4aba9c85ed
+      internalID: 5438210231534594937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 337
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eed0cd6c4c88d48a51cfe1f429f6d2
+      internalID: 5370850675787813040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0fa76986f734947b8bf3c33a18c303
+      internalID: 6856130510871020795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee5a449d53b9ee4c9af775bc93467d8
+      internalID: 8332013321748884553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ffc8edddd8a549904ab35f8338f01
+      internalID: 2405721805868340851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 216
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb9d3a256e01b94bba949fc353c04a4
+      internalID: -3496406617609898238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0663d8763859a46b6e09cfb7a4cea5
+      internalID: -5200145686029529137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15138faa9ec1c8346b2d86da8058c19b
+      internalID: 3777996319529717496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 650
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec9ae2bdfeed643a587f0c25910ed9
+      internalID: -5887908856294784596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 650
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10c12c39d027d499335277b22213f9
+      internalID: 2124005868908310046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_15
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 434
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794b3ff84704c640b96384647cb8d02
+      internalID: 1617080625565090551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Present Floor Blocks_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 434
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdea1d3cf44de4fa6e2ed544e78e7d
+      internalID: 6557657411722324851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

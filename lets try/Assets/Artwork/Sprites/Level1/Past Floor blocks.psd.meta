@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 7d79d1a48d75ff54295ea8e7d0cf7b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -644876170806806825
+    second: Past Floor blocks_0
+  - first:
+      213: 7510932675355948759
+    second: Past Floor blocks_1
+  - first:
+      213: -4567734964380967617
+    second: Past Floor blocks_2
+  - first:
+      213: 4625646071784928537
+    second: Past Floor blocks_3
+  - first:
+      213: 8515940377911908022
+    second: Past Floor blocks_4
+  - first:
+      213: 4917203954100896861
+    second: Past Floor blocks_5
+  - first:
+      213: 1961662342746796333
+    second: Past Floor blocks_6
+  - first:
+      213: -4849190601434259321
+    second: Past Floor blocks_7
+  - first:
+      213: 3447536459320945903
+    second: Past Floor blocks_8
+  - first:
+      213: -3731019995403751467
+    second: Past Floor blocks_9
+  - first:
+      213: 466564711820316467
+    second: Past Floor blocks_10
+  - first:
+      213: -105947607265769223
+    second: Past Floor blocks_11
+  - first:
+      213: 1292108448037619913
+    second: Past Floor blocks_12
+  - first:
+      213: 8512079891547643578
+    second: Past Floor blocks_13
+  - first:
+      213: -90213550221286636
+    second: Past Floor blocks_14
+  - first:
+      213: -5397279997623003318
+    second: Past Floor blocks_15
+  - first:
+      213: -4406450678014651400
+    second: Past Floor blocks_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Past Floor blocks_0
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1308
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4a1b170c6d9944a9c031ac897e2728
+      internalID: -644876170806806825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_1
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1313
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992f99ff4305844589d7779ed768761
+      internalID: 7510932675355948759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_2
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1011
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abab8198be48443a92ee9d23a47860
+      internalID: -4567734964380967617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1013
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a39a33400aa9649ad486448b8d9307
+      internalID: 4625646071784928537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_4
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1308
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db8af2d8281a1847a4fca06fccd5b8d
+      internalID: 8515940377911908022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04fc716a47e120458782f16d3e13405
+      internalID: 4917203954100896861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da071a42fe6f2e84396a8a60e73d097f
+      internalID: 1961662342746796333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f128dfeda5604988aab2c9217e0f2
+      internalID: -4849190601434259321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e0421af618f254b9c8618fd10cdb79
+      internalID: 3447536459320945903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 337
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166704a0abe310945a7e77e1d2f9551d
+      internalID: -3731019995403751467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 553
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87efbec1acf6543afc89a41316d1be
+      internalID: 466564711820316467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca76369d3452c47a453f4fa9cf493a
+      internalID: -105947607265769223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 121
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee15f251637ae45a6b9feabaf56e04
+      internalID: 1292108448037619913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_13
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 433
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85522d7a5bbc96649bb2b0af665845e7
+      internalID: 8512079891547643578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 649
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42ec96f354f1541870034f2f2c5a4e
+      internalID: -90213550221286636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 649
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ac655bdfa0db4889d0c6203db3095
+      internalID: -5397279997623003318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Past Floor blocks_16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 433
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a08f5e4348d3845bce15efb885d136
+      internalID: -4406450678014651400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
